@@ -94,7 +94,6 @@ nav{
     width: 50%;
 
 }
-//I realize I can combine these pictures into their own class but i chose to do it this way for now
 table.chart {
     border: 4px solid #555555;
     background-color: #555555;
